@@ -19,3 +19,5 @@ A, B, C, D
 
 and started traversal from A
 
+## Author
+**Godfred Appiah Baah**
